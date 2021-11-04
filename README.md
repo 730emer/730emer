@@ -1,3 +1,1 @@
-Ethereum Dev focused on Polygon network.
-US based 
-Open for collaboration.
+WEB3 Solidity React
