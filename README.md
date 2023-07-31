@@ -1,1 +1,1 @@
-WEB3 Solidity React
+SOLIDITY / RUST / JS / PYTHON / TYPESCRIPT
